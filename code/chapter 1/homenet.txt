@@ -1,0 +1,35 @@
+GUID: {2BAD7D50-7358-47E0-998B-0BCC74B393AA}
+Is LAN Connection: True
+Name: WLAN
+Phone Book Path: 
+
+GUID: {ADA039DA-9EBB-4CA9-93A2-788690E77C46}
+Is LAN Connection: True
+Name: ÒÔÌ«Íø
+Phone Book Path: 
+
+GUID: {A47A1C0E-2344-471F-ABB1-525935B771AC}
+Is LAN Connection: True
+Name: ÒÔÌ«Íø
+Phone Book Path: 
+
+GUID: {13E98A55-000D-4D66-B7F4-D0159ABCC7F9}
+Is LAN Connection: True
+Name: ÒÔÌ«Íø
+Phone Book Path: 
+
+GUID: {AC07EB45-0878-4C19-A8DA-D82F9A3885C6}
+Is LAN Connection: True
+Name: ÒÔÌ«Íø
+Phone Book Path: 
+
+GUID: {28400393-D4BE-4439-91D4-BE917AC4EFA4}
+Is LAN Connection: True
+Name: ÒÔÌ«Íø
+Phone Book Path: 
+
+GUID: {687524D0-2FC0-45EA-AE77-80552FFDC2A4}
+Is LAN Connection: True
+Name: ÒÔÌ«Íø
+Phone Book Path: 
+

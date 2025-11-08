@@ -1,0 +1,3253 @@
+Log File:        Application
+Record Number:   59043
+Type:            信息
+Time Generated:  20251106180909.063204-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T18:09:09Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   59042
+Type:            信息
+Time Generated:  20251106180838.801017-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   59041
+Type:            信息
+Time Generated:  20251106175056.722538-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T17:50:56Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   59040
+Type:            信息
+Time Generated:  20251106175025.754100-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   59039
+Type:            信息
+Time Generated:  20251106174846.967478-000
+Source:          edgeupdate
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service stopped.
+
+Log File:        Application
+Record Number:   59038
+Type:            信息
+Time Generated:  20251106173543.197095-000
+Source:          Edge
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [10780:8588:1106/113543.196:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   59037
+Type:            信息
+Time Generated:  20251106170455.851034-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T17:04:55Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   59036
+Type:            信息
+Time Generated:  20251106170417.565422-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   59035
+Type:            信息
+Time Generated:  20251106170346.387494-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   59034
+Type:            信息
+Time Generated:  20251106170212.637083-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   59033
+Type:            信息
+Time Generated:  20251106170210.671528-000
+Source:          ESENT
+Category:        1
+Category String: 常规
+Event:           326
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,D,50,0) DS_Token_DB: 数据库引擎附加了一个数据库 (1, C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat)。(时间 =0 秒) 
+ 
+恢复缓存：1 0 
+其他数据：lgposAttach = 00000023:0003:0268,
+dbv = 1568.300.620 (9620) 
+ 
+内部计时顺序：
+[1] 0.000011 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[2] 0.001270 -0.000232 (1) WT +J(0) +M(C:0K, Fs:17, WS:4K # 4K, PF:4K # 0K, P:4K)
+[3] 0.004465 -0.000614 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:6, WS:20K # 0K, PF:20K # 0K, P:20K)
+[4] 0.001446 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:4K # 0K, P:4K)
+[5] -
+[6] 0.000510 -0.000402 (2) CM -0.000285 (2) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 0K, PF:0K # 0K, P:0K)
+[7] 0.000004 +J(0)
+[8] 0.000407 -0.000173 (1) CM -0.000122 (1) WT +J(CM:1, PgRf:1, Rd:4/1, Dy:0/0, Lg:0/0) +M(C:16K, Fs:25, WS:100K # 68K, PF:208K # 172K, P:208K)
+[9] -
+[10] -
+[11] -
+[12] 0.000015 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:54/1) +M(C:0K, Fs:1, WS:4K # 4K, PF:20K # 16K, P:20K)
+[13] 0.000740 -0.000503 (3) CM -0.000327 (3) WT +J(CM:3, PgRf:23, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:-8K, Fs:21, WS:76K # 76K, PF:-4K # 4K, P:-4K)
+[14] 0.000514 -0.000341 (2) CM -0.000244 (2) WT +J(CM:2, PgRf:40, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:4, WS:16K # 16K, PF:64K # 56K, P:64K)
+[15] 0.000306 -0.000274 (1) CM -0.000232 (1) WT +J(CM:1, PgRf:1, Rd:0/1, Dy:0/0, Lg:0/0)
+[16] 0.000021 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K)
+[17] 0.000392 -0.000307 (1) CM -0.000268 (1) WT +J(CM:1, PgRf:42, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:8, WS:32K # 32K, PF:0K # 0K, P:0K)
+[18] 0.000001 +J(0)
+[19] 0.0 +J(0)
+[20] 0.000708 -0.000584 (1) CM -0.000543 (1) WT +J(CM:1, PgRf:3, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K).
+
+Log File:        Application
+Record Number:   59032
+Type:            信息
+Time Generated:  20251106170210.658462-000
+Source:          ESENT
+Category:        1
+Category String: 常规
+Event:           105
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,D,0,0) DS_Token_DB: 数据库引擎启动了一个新的实例 (0)。(时间 =0.048 秒) 
+ 
+其他数据：
+ lgposV2[] = 00000022:0001:0000 - 00000022:000E:0268 - 00000023:0001:0000 - 00000023:0001:0000 (00000023:0001:0000)
+ForwardLogsV2 = 0.024056 s - 1 lgens
+cReInits = 5
+RBSOn = 0
+ 
+ 
+内部计时顺序：
+[1] 0.000763 +J(0) +M(C:0K, Fs:172, WS:664K # 664K, PF:3068K # 3068K, P:3068K)
+[2] 0.000480 +J(0) +M(C:8K, Fs:183, WS:724K # 724K, PF:1276K # 1276K, P:1276K)
+[3] 0.000022 +J(0) +M(C:0K, Fs:8, WS:28K # 28K, PF:68K # 68K, P:68K)
+[4] 0.000233 +J(0) +M(C:0K, Fs:130, WS:520K # 520K, PF:200K # 200K, P:200K)
+[5] 0.001077 +J(0) +M(C:0K, Fs:62, WS:248K # 248K, PF:24K # 24K, P:24K)
+[6] 0.002820 +J(0) +M(C:0K, Fs:46, WS:180K # 180K, PF:16K # 16K, P:16K)
+[7] 0.001402 -0.000323 (2) WT +J(0) +M(C:0K, Fs:37, WS:148K # 148K, PF:64K # 64K, P:64K)
+[8] 0.019619 -0.002955 (15) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:53559/36) +M(C:0K, Fs:198, WS:368K # 368K, PF:236K # 240K, P:236K)
+[9] 0.004525 -0.000497 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:1/1) +M(C:0K, Fs:40, WS:152K # 152K, PF:36K # 32K, P:36K) + 1 lgens
+[10] 0.000883 -0.000153 (1) WT +J(0) +M(C:0K, Fs:1, WS:-56K # 4K, PF:-60K # 0K, P:-60K)
+[11] 0.000029 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:4, WS:16K # 0K, PF:0K # 0K, P:0K)
+[12] 0.000202 +J(0)
+[13] 0.015284 -0.000353 (2) CM -0.001431 (17) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:58, WS:120K # 140K, PF:160K # 168K, P:160K)
+[14] 0.000022 +J(0)
+[15] 0.000012 +J(0)
+[16] 0.000994 -0.000176 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).
+
+Log File:        Application
+Record Number:   59031
+Type:            信息
+Time Generated:  20251106170210.652926-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           302
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,U,98,0) DS_Token_DB: 数据库引擎已成功完成恢复步骤。
+
+Log File:        Application
+Record Number:   59030
+Type:            信息
+Time Generated:  20251106170210.640227-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           301
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,R,98,0) DS_Token_DB: 数据库引擎已完成重放日志文件 C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS.log。  
+ 
+处理统计信息：
+[1] 0.000792 -0.000115 (2) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:1/1) +M(C:0K, Fs:4, WS:12K # 12K, PF:0K # 0K, P:0K). 
+最频繁地发现了类型 'NOP      ' 的日志记录 (1 次)
+
+Log File:        Application
+Record Number:   59029
+Type:            信息
+Time Generated:  20251106170210.636444-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           301
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,R,98,0) DS_Token_DB: 数据库引擎已完成重放日志文件 C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS00022.log。  
+ 
+处理统计信息：
+[1] 0.013453 -0.002284 (11) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:53559/36) +M(C:0K, Fs:144, WS:228K # 160K, PF:156K # 92K, P:156K). 
+最频繁地发现了类型 'AttachDB ' 的日志记录 (5 次)
+
+Log File:        Application
+Record Number:   59028
+Type:            信息
+Time Generated:  20251106170210.619772-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           300
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,R,98,0) DS_Token_DB: 数据库引擎正在初始化恢复步骤。
+
+Log File:        Application
+Record Number:   59027
+Type:            信息
+Time Generated:  20251106170210.613122-000
+Source:          ESENT
+Category:        1
+Category String: 常规
+Event:           102
+User:            
+Computer:        Kennycai
+Message:         svchost (16964,P,98,0) DS_Token_DB: 数据库引擎(10.00.26100.0000)正在启动新实例(0)。
+
+Log File:        Application
+Record Number:   59026
+Type:            信息
+Time Generated:  20251106170006.478783-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   59025
+Type:            信息
+Time Generated:  20251106165653.737119-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T16:56:53Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   59024
+Type:            信息
+Time Generated:  20251106165602.327920-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   59023
+Type:            信息
+Time Generated:  20251106165210.040746-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T16:52:10Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   59022
+Type:            错误
+Time Generated:  20251106165141.165673-000
+Source:          .NET Runtime
+Category:        0
+Category String: 无
+Event:           1022
+User:            
+Computer:        Kennycai
+Message:         .NET Runtime version 4.0.30319.0 - 在初始化分析 API 附加基础结构时发生错误。此进程不允许附加探查器。HRESULT: 0x80004005。  进程 ID (十进制): 16720。消息 ID: [0x2509]。
+
+Log File:        Application
+Record Number:   59021
+Type:            信息
+Time Generated:  20251106165120.471516-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   59020
+Type:            信息
+Time Generated:  20251106165118.452959-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           1
+User:            
+Computer:        Kennycai
+Message:         已经启动 Windows 安全中心服务。
+
+Log File:        Application
+Record Number:   59019
+Type:            信息
+Time Generated:  20251106165117.545909-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   59018
+Type:            信息
+Time Generated:  20251106165117.411008-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           900
+User:            
+Computer:        Kennycai
+Message:         软件保护服务正在启动。
+参数: <explicit>
+
+Log File:        Application
+Record Number:   59017
+Type:            信息
+Time Generated:  20251106165116.852604-000
+Source:          edgeupdate
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service stopped.
+
+Log File:        Application
+Record Number:   59016
+Type:            信息
+Time Generated:  20251106165110.151687-000
+Source:          Edge
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [14556:14668:1106/105110.150:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   59015
+Type:            信息
+Time Generated:  20251106165046.648377-000
+Source:          Chrome
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [4076:6284:1106/105046.647:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   59014
+Type:            信息
+Time Generated:  20251106165015.885478-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           903
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已经停止。
+
+
+Log File:        Application
+Record Number:   59013
+Type:            信息
+Time Generated:  20251106165015.880041-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T16:50:15Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   59012
+Type:            信息
+Time Generated:  20251106164929.502482-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           902
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已启动。
+10.0.26100.6899
+
+Log File:        Application
+Record Number:   59011
+Type:            信息
+Time Generated:  20251106164929.459006-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=55c92734-d682-4d71-983e-d6ec3f16059f
+授权状态=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   59010
+Type:            信息
+Time Generated:  20251106164929.422470-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1066
+User:            
+Computer:        Kennycai
+Message:         服务对象的初始化状态。
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+
+
+Log File:        Application
+Record Number:   59009
+Type:            信息
+Time Generated:  20251106164929.245134-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   59008
+Type:            信息
+Time Generated:  20251106164929.089108-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           900
+User:            
+Computer:        Kennycai
+Message:         软件保护服务正在启动。
+参数: TriggerStarted:6
+
+Log File:        Application
+Record Number:   59007
+Type:            信息
+Time Generated:  20251106164924.801950-000
+Source:          Microsoft-Windows-Search
+Category:        1
+Category String: 搜索服务
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         Windows Search 服务已启动。
+
+
+Log File:        Application
+Record Number:   59006
+Type:            警告
+Time Generated:  20251106164917.008962-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           63
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已在 Windows Management Instrumentation 命名空间 root\Intel_ME 中注册提供程序 IntelMEProv 以使用 LocalSystem 帐户。此帐户是特权帐户；如果没有正确模拟用户请求，该提供程序可能会导致违反安全策略。
+
+Log File:        Application
+Record Number:   59005
+Type:            警告
+Time Generated:  20251106164917.005106-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           63
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已在 Windows Management Instrumentation 命名空间 root\Intel_ME 中注册提供程序 IntelMEProv 以使用 LocalSystem 帐户。此帐户是特权帐户；如果没有正确模拟用户请求，该提供程序可能会导致违反安全策略。
+
+Log File:        Application
+Record Number:   59004
+Type:            警告
+Time Generated:  20251106164916.999622-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           63
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已在 Windows Management Instrumentation 命名空间 root\Intel_ME 中注册提供程序 IntelMEProv 以使用 LocalSystem 帐户。此帐户是特权帐户；如果没有正确模拟用户请求，该提供程序可能会导致违反安全策略。
+
+Log File:        Application
+Record Number:   59003
+Type:            信息
+Time Generated:  20251106164917.087892-000
+Source:          Microsoft-Windows-Winlogon
+Category:        0
+Category String: 
+Event:           6000
+User:            
+Computer:        Kennycai
+Message:         Winlogon 通知订户 <SessionEnv> 无法处理通知事件。
+
+Log File:        Application
+Record Number:   59002
+Type:            信息
+Time Generated:  20251106164917.021019-000
+Source:          WMIRegistrationService
+Category:        0
+Category String: 无
+Event:           2
+User:            
+Computer:        Kennycai
+Message:         Intel(R) WMI Registration Service has successfully finished WMI Registration.
+
+Log File:        Application
+Record Number:   59001
+Type:            信息
+Time Generated:  20251106164915.398262-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           5617
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已成功初始化 Windows Management Instrumentation 服务子系统
+
+Log File:        Application
+Record Number:   59000
+Type:            信息
+Time Generated:  20251106164915.918716-000
+Source:          igcc
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         服务已成功启动。
+
+Log File:        Application
+Record Number:   58999
+Type:            信息
+Time Generated:  20251106164915.818983-000
+Source:          FxService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         操作成功完成。 
+
+Log File:        Application
+Record Number:   58998
+Type:            信息
+Time Generated:  20251106164915.469004-000
+Source:          Bonjour Service
+Category:        0
+Category String: 无
+Event:           100
+User:            
+Computer:        Kennycai
+Message:         Service started
+
+
+Log File:        Application
+Record Number:   58997
+Type:            信息
+Time Generated:  20251106164915.464578-000
+Source:          Bonjour Service
+Category:        0
+Category String: 无
+Event:           100
+User:            
+Computer:        Kennycai
+Message:         Service initialized
+
+Log File:        Application
+Record Number:   58996
+Type:            信息
+Time Generated:  20251106164915.432094-000
+Source:          WMIRegistrationService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Intel(R) WMI Registration Service started.
+
+Log File:        Application
+Record Number:   58995
+Type:            信息
+Time Generated:  20251106164915.329052-000
+Source:          IntelDalJhi
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Intel(R) Dynamic Application Loader Host Interface Service started.
+
+Log File:        Application
+Record Number:   58994
+Type:            信息
+Time Generated:  20251106164915.319564-000
+Source:          RtkAudioUniversalService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         操作成功完成。 
+
+Log File:        Application
+Record Number:   58993
+Type:            信息
+Time Generated:  20251106164915.310819-000
+Source:          Service1
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         服务已成功启动。
+
+Log File:        Application
+Record Number:   58992
+Type:            信息
+Time Generated:  20251106164915.281061-000
+Source:          Bonjour Service
+Category:        0
+Category String: 无
+Event:           100
+User:            
+Computer:        Kennycai
+Message:         Service initializing
+
+Log File:        Application
+Record Number:   58991
+Type:            信息
+Time Generated:  20251106164914.981337-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           5615
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已成功启动 Windows Management Instrumentation 服务
+
+Log File:        Application
+Record Number:   58990
+Type:            信息
+Time Generated:  20251106164914.380171-000
+Source:          Microsoft-Windows-User Profiles Service
+Category:        0
+Category String: 
+Event:           1531
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已成功启动用户配置文件服务。
+
+
+
+Log File:        Application
+Record Number:   58989
+Type:            信息
+Time Generated:  20251106164915.011691-000
+Source:          HPTouchpointAnalyticsService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service started successfully.
+
+Log File:        Application
+Record Number:   58988
+Type:            信息
+Time Generated:  20251106164915.001013-000
+Source:          HPAnalytics
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         HpTouchpointAnalyticsRecoverySetupSuccessfully configured Failure Actions
+
+Log File:        Application
+Record Number:   58987
+Type:            信息
+Time Generated:  20251106164914.873444-000
+Source:          Microsoft-Windows-Winlogon
+Category:        0
+Category String: 
+Event:           6003
+User:            
+Computer:        Kennycai
+Message:         Winlogon 通知订户 <SessionEnv> 无法处理关键通知事件。
+
+Log File:        Application
+Record Number:   58986
+Type:            信息
+Time Generated:  20251106021621.539436-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T02:16:21Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58985
+Type:            信息
+Time Generated:  20251106021551.438539-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58984
+Type:            信息
+Time Generated:  20251106021524.609865-000
+Source:          edgeupdate
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service stopped.
+
+Log File:        Application
+Record Number:   58983
+Type:            信息
+Time Generated:  20251106014250.408615-000
+Source:          Chrome
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [16760:2888:1105/194250.407:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   58982
+Type:            信息
+Time Generated:  20251106012519.005799-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T01:25:18Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58981
+Type:            信息
+Time Generated:  20251106012448.795883-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58980
+Type:            信息
+Time Generated:  20251106011402.941250-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-13T01:14:02Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58979
+Type:            信息
+Time Generated:  20251106011330.299671-000
+Source:          Windows Error Reporting
+Category:        0
+Category String: 
+Event:           1001
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         故障存储段 1336300718411999335，类型 5
+事件名称: OFFICE_MODULE_VERSION_MISMATCH
+响应: 不可用
+Cab ID: 0
+
+问题签名:
+P1: WINWORD.EXE
+P2: 16.0.19328.20158
+P3: 
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+附加文件:
+\\?\C:\Users\kenny\AppData\Local\Temp\{FEA94ADE-FBF0-4343-908C-18FE5ABC20EA} - OProcSessId.dat
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8dec7fe2-eb6b-41f5-88fa-536ce312683b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.31e9eb61-9758-4a44-aef6-7ff9ae9b6dde.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d24e2b94-803c-4613-8d78-778aa2ab0745.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.73dfd6d9-e3c6-40a5-a894-7aa2002a05ce.tmp.xml
+
+可在此处获取这些文件:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_WINWORD.EXE_5117c8b4e8b2361a6ce6f84a632c53c66d6d2475_00000000_c970c00b-95e7-41ed-a80b-289e1ad7afac
+
+分析符号: 
+重新检查解决方案: 0
+报告 ID: 32d39334-7372-4ec3-b5e6-9b8a13c8fd89
+报告状态: 268435456
+哈希存储段: 4135b1d2f614c793928b7e6c620be867
+Cab GUID: 0
+
+Log File:        Application
+Record Number:   58978
+Type:            信息
+Time Generated:  20251106011330.936200-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58977
+Type:            信息
+Time Generated:  20251106011330.865302-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58976
+Type:            信息
+Time Generated:  20251106011330.633741-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58975
+Type:            错误
+Time Generated:  20251106011324.144024-000
+Source:          Application Error
+Category:        100
+Category String: 应用程序崩溃事件
+Event:           1000
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         出错应用程序名称： WINWORD.EXE，版本： 16.0.19328.20158，时间戳： 0x6902e91d
+出错模块名称： tabassist64.dll， 版本： 2.0.9.489，时间戳： 0x5ac43ad9
+异常代码： 0xc0000005
+错误偏移： 0x0000000000015204
+出错进程 ID： 0x4FB0
+出错应用程序开始时间： 0x1DC4EAC2A7AC874
+Faulting 应用程序路径： C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE
+Faulting 模块路径： D:\PPTAssist\tabassist64.dll
+Report ID： 32d39334-7372-4ec3-b5e6-9b8a13c8fd89
+Faulting 包全名： 
+Faulting 程序包相对应用程序 ID：  个
+
+Log File:        Application
+Record Number:   58974
+Type:            信息
+Time Generated:  20251105235654.650797-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T23:56:54Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58973
+Type:            信息
+Time Generated:  20251105235624.403767-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58972
+Type:            信息
+Time Generated:  20251105233127.577840-000
+Source:          Chrome
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [16416:18276:1105/173127.576:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   58971
+Type:            信息
+Time Generated:  20251105233107.521286-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T23:31:07Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58970
+Type:            信息
+Time Generated:  20251105233028.275385-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58969
+Type:            信息
+Time Generated:  20251105233028.187607-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58968
+Type:            信息
+Time Generated:  20251105233027.938657-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58967
+Type:            错误
+Time Generated:  20251105233021.689302-000
+Source:          .NET Runtime
+Category:        0
+Category String: 无
+Event:           1022
+User:            
+Computer:        Kennycai
+Message:         .NET Runtime version 4.0.30319.0 - 在初始化分析 API 附加基础结构时发生错误。此进程不允许附加探查器。HRESULT: 0x80004005。  进程 ID (十进制): 12280。消息 ID: [0x2509]。
+
+Log File:        Application
+Record Number:   58966
+Type:            信息
+Time Generated:  20251105232950.924323-000
+Source:          Edge
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [19628:18196:1105/172950.923:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   58965
+Type:            信息
+Time Generated:  20251105221139.643138-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T22:11:39Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58964
+Type:            信息
+Time Generated:  20251105221109.399303-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58963
+Type:            信息
+Time Generated:  20251105210804.453592-000
+Source:          Chrome
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [1248:13012:1105/150804.452:INFO:rlz\lib\rlz_lib.cc:451] Succeeded in sending RLZ ping
+
+Log File:        Application
+Record Number:   58962
+Type:            信息
+Time Generated:  20251105210804.169200-000
+Source:          Chrome
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [1248:13012:1105/150804.168:INFO:rlz\lib\rlz_lib.cc:442] Attempting to send RLZ ping brand=MRUS
+
+Log File:        Application
+Record Number:   58961
+Type:            信息
+Time Generated:  20251105210704.143643-000
+Source:          Chrome
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [1248:7884:1105/150704.142:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   58960
+Type:            信息
+Time Generated:  20251105210131.203203-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T21:01:31Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58959
+Type:            信息
+Time Generated:  20251105210100.871553-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58958
+Type:            信息
+Time Generated:  20251105204632.814023-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T20:46:32Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58957
+Type:            信息
+Time Generated:  20251105204602.571004-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58956
+Type:            信息
+Time Generated:  20251105195859.125867-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T19:58:59Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58955
+Type:            信息
+Time Generated:  20251105190120.044825-000
+Source:          Windows Error Reporting
+Category:        0
+Category String: 
+Event:           1001
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         故障存储段 1625797265716200868，类型 5
+事件名称: StoreAgentDownloadFailure1
+响应: 不可用
+Cab ID: 0
+
+问题签名:
+P1: Update;MoUpdateOrchestratorDeviceScan-MoUsoCoreWorker-SearchForAllUpdatesWithUpdateOptionsAsync
+P2: 80240008
+P3: 26100
+P4: 6899
+P5: Windows.Desktop
+P6: 3
+P7: 
+P8: 
+P9: 
+P10: 
+
+附加文件:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7d18e35f-0c24-4f1f-a649-3fc80fcad0a0.tmp.WERInternalMetadata.xml
+
+可在此处获取这些文件:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;MoUpdateO_9d61aba8c184a28772e5722a029c4f698fdc_00000000_79a551d8-f587-41eb-9d84-2a745ca460b4
+
+分析符号: 
+重新检查解决方案: 0
+报告 ID: 79a551d8-f587-41eb-9d84-2a745ca460b4
+报告状态: 268435456
+哈希存储段: 77d9c8c612888d7c168ffdffd3d0c5a4
+Cab GUID: 0
+
+Log File:        Application
+Record Number:   58954
+Type:            信息
+Time Generated:  20251105190048.538994-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58953
+Type:            信息
+Time Generated:  20251105181956.143337-000
+Source:          Microsoft-Windows-AppXDeploymentServer/Operational
+Category:        0
+Category String: 无
+Event:           2562
+User:            
+Computer:        Kennycai
+Message:         
+
+Log File:        Application
+Record Number:   58952
+Type:            信息
+Time Generated:  20251105181956.143245-000
+Source:          Microsoft-Windows-AppXDeploymentServer/Operational
+Category:        0
+Category String: 无
+Event:           2562
+User:            
+Computer:        Kennycai
+Message:         
+
+Log File:        Application
+Record Number:   58951
+Type:            信息
+Time Generated:  20251105181956.142990-000
+Source:          Microsoft-Windows-AppXDeploymentServer/Operational
+Category:        0
+Category String: 无
+Event:           2562
+User:            
+Computer:        Kennycai
+Message:         
+
+Log File:        Application
+Record Number:   58950
+Type:            信息
+Time Generated:  20251105181934.979628-000
+Source:          Windows Error Reporting
+Category:        0
+Category String: 
+Event:           1001
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         故障存储段 ，类型 0
+事件名称: StoreAgentDownloadFailure1
+响应: 不可用
+Cab ID: 0
+
+问题签名:
+P1: Update;MoUpdateOrchestratorDeviceScan-MoUsoCoreWorker-SearchForAllUpdatesWithUpdateOptionsAsync
+P2: 80240008
+P3: 26100
+P4: 6899
+P5: Windows.Desktop
+P6: 3
+P7: 
+P8: 
+P9: 
+P10: 
+
+附加文件:
+
+可在此处获取这些文件:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;MoUpdateO_9d61aba8c184a28772e5722a029c4f698fdc_00000000_79a551d8-f587-41eb-9d84-2a745ca460b4
+
+分析符号: 
+重新检查解决方案: 0
+报告 ID: 79a551d8-f587-41eb-9d84-2a745ca460b4
+报告状态: 4
+哈希存储段: 
+Cab GUID: 0
+
+Log File:        Application
+Record Number:   58949
+Type:            信息
+Time Generated:  20251105181927.502219-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T18:19:27Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58948
+Type:            信息
+Time Generated:  20251105181848.341013-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58947
+Type:            信息
+Time Generated:  20251105163350.681151-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   58946
+Type:            信息
+Time Generated:  20251105163256.019311-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T16:32:56Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58945
+Type:            信息
+Time Generated:  20251105163213.468602-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   58944
+Type:            信息
+Time Generated:  20251105163211.802664-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58943
+Type:            信息
+Time Generated:  20251105163211.389654-000
+Source:          ESENT
+Category:        1
+Category String: 常规
+Event:           326
+User:            
+Computer:        Kennycai
+Message:         svchost (13316,D,50,0) DS_Token_DB: 数据库引擎附加了一个数据库 (1, C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat)。(时间 =0 秒) 
+ 
+恢复缓存：1 0 
+其他数据：lgposAttach = 00000022:000E:0268,
+dbv = 1568.300.620 (9620) 
+ 
+内部计时顺序：
+[1] 0.000010 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[2] 0.001166 -0.000171 (1) WT +J(0) +M(C:0K, Fs:17, WS:4K # 8K, PF:4K # 4K, P:4K)
+[3] 0.012014 -0.000808 (9) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:255/1) +M(C:0K, Fs:30, WS:104K # 44K, PF:20K # 0K, P:20K)
+[4] 0.001227 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:4K # 0K, P:4K)
+[5] -
+[6] 0.000499 -0.000394 (2) CM -0.000261 (2) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 8K, PF:0K # 0K, P:0K)
+[7] 0.000004 +J(0)
+[8] 0.000439 -0.000204 (1) CM -0.000148 (1) WT +J(CM:1, PgRf:1, Rd:4/1, Dy:0/0, Lg:0/0) +M(C:16K, Fs:24, WS:96K # 96K, PF:208K # 172K, P:208K)
+[9] -
+[10] -
+[11] -
+[12] 0.000016 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:54/1) +M(C:0K, Fs:1, WS:4K # 4K, PF:20K # 16K, P:20K)
+[13] 0.000797 -0.000537 (3) CM -0.000381 (3) WT +J(CM:3, PgRf:23, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:-8K, Fs:21, WS:76K # 76K, PF:-4K # 4K, P:-4K)
+[14] 0.000606 -0.000390 (2) CM -0.000269 (2) WT +J(CM:2, PgRf:40, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:5, WS:16K # 16K, PF:68K # 60K, P:68K)
+[15] 0.000163 -0.000126 (1) CM -0.000066 (1) WT +J(CM:1, PgRf:1, Rd:0/1, Dy:0/0, Lg:0/0)
+[16] 0.000020 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K)
+[17] 0.000262 -0.000154 (1) CM -0.000094 (1) WT +J(CM:1, PgRf:42, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:8, WS:32K # 32K, PF:0K # 0K, P:0K)
+[18] 0.000002 +J(0)
+[19] 0.0 +J(0)
+[20] 0.000209 -0.000141 (1) CM -0.000081 (1) WT +J(CM:1, PgRf:3, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K).
+
+Log File:        Application
+Record Number:   58942
+Type:            信息
+Time Generated:  20251105163211.369969-000
+Source:          ESENT
+Category:        1
+Category String: 常规
+Event:           105
+User:            
+Computer:        Kennycai
+Message:         svchost (13316,D,0,0) DS_Token_DB: 数据库引擎启动了一个新的实例 (0)。(时间 =0.047 秒) 
+ 
+其他数据：
+ lgposV2[] = 00000022:0001:0000 - 00000022:000B:0367 - 00000022:000C:0000 - 00000022:000C:0000 (00000000:0000:0000)
+cReInits = 4
+RBSOn = 0
+ 
+ 
+内部计时顺序：
+[1] 0.000703 +J(0) +M(C:0K, Fs:170, WS:656K # 656K, PF:3060K # 3060K, P:3060K)
+[2] 0.000401 +J(0) +M(C:8K, Fs:142, WS:560K # 560K, PF:1276K # 1276K, P:1276K)
+[3] 0.000017 +J(0) +M(C:0K, Fs:7, WS:24K # 24K, PF:68K # 68K, P:68K)
+[4] 0.000215 +J(0) +M(C:0K, Fs:122, WS:488K # 488K, PF:200K # 200K, P:200K)
+[5] 0.001361 +J(0) +M(C:0K, Fs:112, WS:448K # 448K, PF:24K # 24K, P:24K)
+[6] 0.002967 +J(0) +M(C:0K, Fs:47, WS:188K # 188K, PF:20K # 20K, P:20K)
+[7] 0.001732 -0.000441 (2) WT +J(0) +M(C:0K, Fs:39, WS:156K # 156K, PF:64K # 64K, P:64K)
+[8] 0.019954 -0.003825 (14) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:44616/29) +M(C:0K, Fs:176, WS:352K # 352K, PF:224K # 228K, P:224K)
+[9] 0.000909 +J(0) +M(C:0K, Fs:13, WS:52K # 52K, PF:4K # 0K, P:4K)
+[10] 0.001834 -0.000732 (1) WT +J(0) +M(C:0K, Fs:2, WS:-52K # 8K, PF:-60K # 0K, P:-60K)
+[11] 0.000041 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:4, WS:16K # 0K, PF:0K # 0K, P:0K)
+[12] 0.000358 +J(0)
+[13] 0.015198 -0.000321 (2) CM -0.001494 (17) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:75, WS:188K # 208K, PF:184K # 192K, P:184K)
+[14] 0.000029 +J(0)
+[15] 0.000019 +J(0)
+[16] 0.001126 -0.000116 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).
+
+Log File:        Application
+Record Number:   58941
+Type:            信息
+Time Generated:  20251105163211.364383-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           302
+User:            
+Computer:        Kennycai
+Message:         svchost (13316,U,98,0) DS_Token_DB: 数据库引擎已成功完成恢复步骤。
+
+Log File:        Application
+Record Number:   58940
+Type:            信息
+Time Generated:  20251105163211.350511-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           301
+User:            
+Computer:        Kennycai
+Message:         svchost (13316,R,98,0) DS_Token_DB: 数据库引擎已完成重放日志文件 C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS.log。  
+ 
+处理统计信息：
+[1] 0.013504 -0.003143 (10) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:44616/29) +M(C:0K, Fs:123, WS:216K # 148K, PF:148K # 84K, P:148K). 
+最频繁地发现了类型 'AttachDB ' 的日志记录 (4 次)
+
+Log File:        Application
+Record Number:   58939
+Type:            信息
+Time Generated:  20251105163211.333483-000
+Source:          ESENT
+Category:        3
+Category String: 常规
+Event:           300
+User:            
+Computer:        Kennycai
+Message:         svchost (13316,R,98,0) DS_Token_DB: 数据库引擎正在初始化恢复步骤。
+
+Log File:        Application
+Record Number:   58938
+Type:            信息
+Time Generated:  20251105163211.326207-000
+Source:          ESENT
+Category:        1
+Category String: 常规
+Event:           102
+User:            
+Computer:        Kennycai
+Message:         svchost (13316,P,98,0) DS_Token_DB: 数据库引擎(10.00.26100.0000)正在启动新实例(0)。
+
+Log File:        Application
+Record Number:   58937
+Type:            信息
+Time Generated:  20251105162516.181626-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T16:25:16Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58936
+Type:            信息
+Time Generated:  20251105162442.853559-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58935
+Type:            信息
+Time Generated:  20251105162346.025210-000
+Source:          igcc
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         该服务已成功处理 PowerEvent。
+
+Log File:        Application
+Record Number:   58934
+Type:            信息
+Time Generated:  20251105162345.020878-000
+Source:          igcc
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         该服务已成功处理 PowerEvent。
+
+Log File:        Application
+Record Number:   58933
+Type:            信息
+Time Generated:  20251105162034.959540-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   58932
+Type:            信息
+Time Generated:  20251105162029.508122-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T16:20:29Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58931
+Type:            信息
+Time Generated:  20251105161959.288463-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58930
+Type:            信息
+Time Generated:  20251105161538.938024-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T16:15:38Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58929
+Type:            信息
+Time Generated:  20251105161526.222132-000
+Source:          edgeupdate
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service stopped.
+
+Log File:        Application
+Record Number:   58928
+Type:            信息
+Time Generated:  20251105161451.778569-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58927
+Type:            信息
+Time Generated:  20251105161223.269990-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T16:12:23Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58926
+Type:            错误
+Time Generated:  20251105161154.458330-000
+Source:          .NET Runtime
+Category:        0
+Category String: 无
+Event:           1022
+User:            
+Computer:        Kennycai
+Message:         .NET Runtime version 4.0.30319.0 - 在初始化分析 API 附加基础结构时发生错误。此进程不允许附加探查器。HRESULT: 0x80004005。  进程 ID (十进制): 4560。消息 ID: [0x2509]。
+
+Log File:        Application
+Record Number:   58925
+Type:            信息
+Time Generated:  20251105161145.343666-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   58924
+Type:            信息
+Time Generated:  20251105161143.322737-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           1
+User:            
+Computer:        Kennycai
+Message:         已经启动 Windows 安全中心服务。
+
+Log File:        Application
+Record Number:   58923
+Type:            信息
+Time Generated:  20251105161142.508499-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58922
+Type:            信息
+Time Generated:  20251105161142.381947-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           900
+User:            
+Computer:        Kennycai
+Message:         软件保护服务正在启动。
+参数: <explicit>
+
+Log File:        Application
+Record Number:   58921
+Type:            信息
+Time Generated:  20251105161141.554218-000
+Source:          edgeupdate
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service stopped.
+
+Log File:        Application
+Record Number:   58920
+Type:            信息
+Time Generated:  20251105161123.372799-000
+Source:          Edge
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [2788:1712:1105/101123.372:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   58919
+Type:            信息
+Time Generated:  20251105161040.453400-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           903
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已经停止。
+
+
+Log File:        Application
+Record Number:   58918
+Type:            信息
+Time Generated:  20251105161040.449336-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T16:10:40Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58917
+Type:            错误
+Time Generated:  20251105160956.973027-000
+Source:          .NET Runtime
+Category:        0
+Category String: 无
+Event:           1022
+User:            
+Computer:        Kennycai
+Message:         .NET Runtime version 4.0.30319.0 - 在初始化分析 API 附加基础结构时发生错误。此进程不允许附加探查器。HRESULT: 0x80004005。  进程 ID (十进制): 14384。消息 ID: [0x2509]。
+
+Log File:        Application
+Record Number:   58916
+Type:            信息
+Time Generated:  20251105160945.600442-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           902
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已启动。
+10.0.26100.6899
+
+Log File:        Application
+Record Number:   58915
+Type:            信息
+Time Generated:  20251105160945.463703-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=55c92734-d682-4d71-983e-d6ec3f16059f
+授权状态=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58914
+Type:            信息
+Time Generated:  20251105160944.534681-000
+Source:          Microsoft-Windows-Search
+Category:        1
+Category String: 搜索服务
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         Windows Search 服务已启动。
+
+
+Log File:        Application
+Record Number:   58913
+Type:            信息
+Time Generated:  20251105160943.101165-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1066
+User:            
+Computer:        Kennycai
+Message:         服务对象的初始化状态。
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+
+
+Log File:        Application
+Record Number:   58912
+Type:            信息
+Time Generated:  20251105160943.071218-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58911
+Type:            信息
+Time Generated:  20251105160942.909837-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           900
+User:            
+Computer:        Kennycai
+Message:         软件保护服务正在启动。
+参数: TriggerStarted:6
+
+Log File:        Application
+Record Number:   58910
+Type:            警告
+Time Generated:  20251105160942.062204-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           63
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已在 Windows Management Instrumentation 命名空间 root\Intel_ME 中注册提供程序 IntelMEProv 以使用 LocalSystem 帐户。此帐户是特权帐户；如果没有正确模拟用户请求，该提供程序可能会导致违反安全策略。
+
+Log File:        Application
+Record Number:   58909
+Type:            警告
+Time Generated:  20251105160942.051611-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           63
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已在 Windows Management Instrumentation 命名空间 root\Intel_ME 中注册提供程序 IntelMEProv 以使用 LocalSystem 帐户。此帐户是特权帐户；如果没有正确模拟用户请求，该提供程序可能会导致违反安全策略。
+
+Log File:        Application
+Record Number:   58908
+Type:            警告
+Time Generated:  20251105160942.041901-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           63
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已在 Windows Management Instrumentation 命名空间 root\Intel_ME 中注册提供程序 IntelMEProv 以使用 LocalSystem 帐户。此帐户是特权帐户；如果没有正确模拟用户请求，该提供程序可能会导致违反安全策略。
+
+Log File:        Application
+Record Number:   58907
+Type:            信息
+Time Generated:  20251105160942.157067-000
+Source:          WMIRegistrationService
+Category:        0
+Category String: 无
+Event:           2
+User:            
+Computer:        Kennycai
+Message:         Intel(R) WMI Registration Service has successfully finished WMI Registration.
+
+Log File:        Application
+Record Number:   58906
+Type:            信息
+Time Generated:  20251105160941.394490-000
+Source:          Microsoft-Windows-Winlogon
+Category:        0
+Category String: 
+Event:           6000
+User:            
+Computer:        Kennycai
+Message:         Winlogon 通知订户 <SessionEnv> 无法处理通知事件。
+
+Log File:        Application
+Record Number:   58905
+Type:            信息
+Time Generated:  20251105160940.593392-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           5617
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已成功初始化 Windows Management Instrumentation 服务子系统
+
+Log File:        Application
+Record Number:   58904
+Type:            信息
+Time Generated:  20251105160940.162411-000
+Source:          Microsoft-Windows-WMI
+Category:        0
+Category String: 
+Event:           5615
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已成功启动 Windows Management Instrumentation 服务
+
+Log File:        Application
+Record Number:   58903
+Type:            信息
+Time Generated:  20251105160940.620619-000
+Source:          igcc
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         服务已成功启动。
+
+Log File:        Application
+Record Number:   58902
+Type:            信息
+Time Generated:  20251105160940.401675-000
+Source:          FxService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         操作成功完成。 
+
+Log File:        Application
+Record Number:   58901
+Type:            信息
+Time Generated:  20251105160940.078926-000
+Source:          Service1
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         服务已成功启动。
+
+Log File:        Application
+Record Number:   58900
+Type:            信息
+Time Generated:  20251105160940.078536-000
+Source:          Bonjour Service
+Category:        0
+Category String: 无
+Event:           100
+User:            
+Computer:        Kennycai
+Message:         Service started
+
+
+Log File:        Application
+Record Number:   58899
+Type:            信息
+Time Generated:  20251105160940.072610-000
+Source:          WMIRegistrationService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Intel(R) WMI Registration Service started.
+
+Log File:        Application
+Record Number:   58898
+Type:            信息
+Time Generated:  20251105160940.068688-000
+Source:          Bonjour Service
+Category:        0
+Category String: 无
+Event:           100
+User:            
+Computer:        Kennycai
+Message:         Service initialized
+
+Log File:        Application
+Record Number:   58897
+Type:            信息
+Time Generated:  20251105160939.999369-000
+Source:          RtkAudioUniversalService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         操作成功完成。 
+
+Log File:        Application
+Record Number:   58896
+Type:            信息
+Time Generated:  20251105160939.998226-000
+Source:          Bonjour Service
+Category:        0
+Category String: 无
+Event:           100
+User:            
+Computer:        Kennycai
+Message:         Service initializing
+
+Log File:        Application
+Record Number:   58895
+Type:            信息
+Time Generated:  20251105160939.970646-000
+Source:          IntelDalJhi
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Intel(R) Dynamic Application Loader Host Interface Service started.
+
+Log File:        Application
+Record Number:   58894
+Type:            信息
+Time Generated:  20251105160938.971852-000
+Source:          Microsoft-Windows-User Profiles Service
+Category:        0
+Category String: 
+Event:           1531
+User:            NT AUTHORITY\SYSTEM
+Computer:        Kennycai
+Message:         已成功启动用户配置文件服务。
+
+
+
+Log File:        Application
+Record Number:   58893
+Type:            信息
+Time Generated:  20251105160939.617271-000
+Source:          HPTouchpointAnalyticsService
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         Service started successfully.
+
+Log File:        Application
+Record Number:   58892
+Type:            信息
+Time Generated:  20251105160939.606235-000
+Source:          HPAnalytics
+Category:        0
+Category String: 无
+Event:           0
+User:            
+Computer:        Kennycai
+Message:         HpTouchpointAnalyticsRecoverySetupSuccessfully configured Failure Actions
+
+Log File:        Application
+Record Number:   58891
+Type:            信息
+Time Generated:  20251105160939.440231-000
+Source:          Microsoft-Windows-Winlogon
+Category:        0
+Category String: 
+Event:           6003
+User:            
+Computer:        Kennycai
+Message:         Winlogon 通知订户 <SessionEnv> 无法处理关键通知事件。
+
+Log File:        Application
+Record Number:   58890
+Type:            信息
+Time Generated:  20251105023337.859573-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T02:33:37Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58889
+Type:            信息
+Time Generated:  20251105023307.605952-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58888
+Type:            信息
+Time Generated:  20251105021411.775538-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T02:14:11Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58887
+Type:            信息
+Time Generated:  20251105021341.544757-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58886
+Type:            信息
+Time Generated:  20251105021308.310584-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T02:13:08Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58885
+Type:            信息
+Time Generated:  20251105021236.078109-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58884
+Type:            信息
+Time Generated:  20251105014259.847465-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T01:42:59Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58883
+Type:            信息
+Time Generated:  20251105014229.579744-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58882
+Type:            信息
+Time Generated:  20251105012720.200062-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T01:27:20Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58881
+Type:            信息
+Time Generated:  20251105012649.933388-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58880
+Type:            信息
+Time Generated:  20251105012253.096370-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T01:22:53Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58879
+Type:            信息
+Time Generated:  20251105012222.883868-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58878
+Type:            信息
+Time Generated:  20251105011954.086719-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T01:19:54Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58877
+Type:            信息
+Time Generated:  20251105011905.885596-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58876
+Type:            信息
+Time Generated:  20251105010436.704006-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T01:04:36Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58875
+Type:            信息
+Time Generated:  20251105010406.437973-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58874
+Type:            信息
+Time Generated:  20251105003657.748298-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T00:36:57Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58873
+Type:            信息
+Time Generated:  20251105003627.490649-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58872
+Type:            信息
+Time Generated:  20251105003252.323396-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T00:32:52Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58871
+Type:            信息
+Time Generated:  20251105003222.096490-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58870
+Type:            错误
+Time Generated:  20251105002712.672609-000
+Source:          .NET Runtime
+Category:        0
+Category String: 无
+Event:           1022
+User:            
+Computer:        Kennycai
+Message:         .NET Runtime version 4.0.30319.0 - 在初始化分析 API 附加基础结构时发生错误。此进程不允许附加探查器。HRESULT: 0x80004005。  进程 ID (十进制): 10876。消息 ID: [0x2509]。
+
+Log File:        Application
+Record Number:   58869
+Type:            信息
+Time Generated:  20251105002641.449275-000
+Source:          Edge
+Category:        1
+Category String: Browser Events
+Event:           256
+User:            KENNYCAI\kenny
+Computer:        Kennycai
+Message:         [2336:6244:1104/182641.448:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+Log File:        Application
+Record Number:   58868
+Type:            信息
+Time Generated:  20251105001218.730336-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-12T00:12:18Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58867
+Type:            信息
+Time Generated:  20251105001148.544927-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58866
+Type:            信息
+Time Generated:  20251104232743.362671-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T23:27:43Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58865
+Type:            信息
+Time Generated:  20251104232711.025468-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58864
+Type:            信息
+Time Generated:  20251104232514.917015-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T23:25:14Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58863
+Type:            信息
+Time Generated:  20251104232443.647159-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58862
+Type:            信息
+Time Generated:  20251104232443.580790-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58861
+Type:            信息
+Time Generated:  20251104232443.356797-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58860
+Type:            信息
+Time Generated:  20251104231716.558839-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T23:17:16Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58859
+Type:            信息
+Time Generated:  20251104231645.563592-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58858
+Type:            信息
+Time Generated:  20251104231645.495017-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58857
+Type:            信息
+Time Generated:  20251104231645.274472-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58856
+Type:            信息
+Time Generated:  20251104225913.217880-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T22:59:13Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58855
+Type:            信息
+Time Generated:  20251104225842.974413-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58854
+Type:            信息
+Time Generated:  20251104225516.191017-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T22:55:16Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58853
+Type:            信息
+Time Generated:  20251104225443.898968-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58852
+Type:            信息
+Time Generated:  20251104221840.046009-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T22:18:40Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58851
+Type:            信息
+Time Generated:  20251104221809.819689-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58850
+Type:            信息
+Time Generated:  20251104214931.549590-000
+Source:          SecurityCenter
+Category:        0
+Category String: 无
+Event:           15
+User:            
+Computer:        Kennycai
+Message:         已成功将 Windows Defender 状态更新为 SECURITY_PRODUCT_STATE_ON。
+
+Log File:        Application
+Record Number:   58849
+Type:            信息
+Time Generated:  20251104212047.822740-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T21:20:47Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58848
+Type:            信息
+Time Generated:  20251104212017.566952-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58847
+Type:            信息
+Time Generated:  20251104211818.529062-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T21:18:18Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58846
+Type:            信息
+Time Generated:  20251104211748.268208-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58845
+Type:            信息
+Time Generated:  20251104211235.153404-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T21:12:35Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58844
+Type:            信息
+Time Generated:  20251104211204.900676-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58843
+Type:            信息
+Time Generated:  20251104211031.300299-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T21:10:31Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58842
+Type:            信息
+Time Generated:  20251104210959.446172-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58841
+Type:            信息
+Time Generated:  20251104210959.372274-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58840
+Type:            信息
+Time Generated:  20251104210959.137391-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58839
+Type:            信息
+Time Generated:  20251104210501.880374-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T21:05:01Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58838
+Type:            信息
+Time Generated:  20251104210429.418734-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58837
+Type:            信息
+Time Generated:  20251104210429.344254-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58836
+Type:            信息
+Time Generated:  20251104210429.132652-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58835
+Type:            信息
+Time Generated:  20251104201240.406095-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T20:12:40Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58834
+Type:            信息
+Time Generated:  20251104201210.164892-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58833
+Type:            信息
+Time Generated:  20251104201136.609512-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T20:11:36Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58832
+Type:            信息
+Time Generated:  20251104201102.052000-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58831
+Type:            信息
+Time Generated:  20251104195759.297375-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T19:57:59Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58830
+Type:            信息
+Time Generated:  20251104195729.053535-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58829
+Type:            信息
+Time Generated:  20251104193518.705664-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T19:35:18Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58828
+Type:            信息
+Time Generated:  20251104193448.433143-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58827
+Type:            信息
+Time Generated:  20251104192415.749121-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T19:24:15Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58826
+Type:            信息
+Time Generated:  20251104192337.372236-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Log File:        Application
+Record Number:   58825
+Type:            信息
+Time Generated:  20251104192337.305867-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           1003
+User:            
+Computer:        Kennycai
+Message:         软件保护服务已完成授权状态检查。
+应用程序 ID=0ff1ce15-a989-479d-af46-f275c6370663
+授权状态=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: c47456e3-265d-47b6-8ca0-c30abbd0ca36, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: d450596f-894d-49e0-966a-fd39ed4c4c64, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Log File:        Application
+Record Number:   58824
+Type:            信息
+Time Generated:  20251104192337.063521-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58823
+Type:            信息
+Time Generated:  20251104192219.087087-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T19:22:19Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58822
+Type:            信息
+Time Generated:  20251104192148.808886-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
+Log File:        Application
+Record Number:   58821
+Type:            信息
+Time Generated:  20251104190521.390172-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16384
+User:            
+Computer:        Kennycai
+Message:         安排软件保护服务在 2125-10-11T19:05:21Z 时重新启动成功。原因: RulesEngine。
+
+Log File:        Application
+Record Number:   58820
+Type:            信息
+Time Generated:  20251104190451.128157-000
+Source:          Microsoft-Windows-Security-SPP
+Category:        0
+Category String: 
+Event:           16394
+User:            
+Computer:        Kennycai
+Message:         脱机下级迁移成功。
+
